@@ -286,3 +286,28 @@ products.products-heading{
 
 
 /* Customer Reviews Section End  */
+
+
+/* Footer Starts  */
+
+footer{
+    background: #1f1e1e;
+    margin-top:10rem;
+    color:#fff;
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:space-around;
+    align-items: center;
+    height:100vh;
+    font-family:var(--primary-font);
+
+}
+
+footer .container.footer-primary-heading{
+    font-weight:normal;
+    font-size:15px;
+    margin-bottom:20px;
+}
+
+/* Footer  Ends  */
+
